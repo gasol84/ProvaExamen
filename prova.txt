@@ -1,1 +1,2 @@
 01-És el primer text del fitxer
+02-Primers canvis a l'arxiu
