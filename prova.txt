@@ -1,3 +1,7 @@
 01-És el primer text del fitxer
 02-Primers canvis a l'arxiu
+<<<<<<< HEAD
 03-Pas abans d'unir la branca amb el principal
+=======
+03-Canvis a una branca
+>>>>>>> branca1
